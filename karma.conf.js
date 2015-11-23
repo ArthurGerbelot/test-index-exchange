@@ -3,8 +3,8 @@ module.exports = function (config) {
         frameworks: ['jasmine'],
 
         files: [
-            'js/calculatorService.js',
-            'test/calculatorService.spec.js'
+            'js/CalculatorService.js',
+            'test/CalculatorService.spec.js'
         ],
 
         browsers: ['PhantomJS'],
